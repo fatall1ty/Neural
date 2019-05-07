@@ -1,0 +1,88 @@
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\proel\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+J:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+J:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+J:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+J:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+J:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+J:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+J:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+J:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+J:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+J:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+J:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\proel\source\repos\Sieci neuronowe - lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
