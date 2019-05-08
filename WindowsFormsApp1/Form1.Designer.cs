@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series6 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.button1 = new System.Windows.Forms.Button();
             this.trainingPointsTextBox = new System.Windows.Forms.TextBox();
             this.aTextView = new System.Windows.Forms.TextBox();
@@ -63,9 +63,9 @@
             this.cartesianChart3 = new LiveCharts.WinForms.CartesianChart();
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.detailsChartCheckBox = new System.Windows.Forms.CheckBox();
-            this.button5 = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label12 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             this.SuspendLayout();
@@ -94,7 +94,7 @@
             this.aTextView.Name = "aTextView";
             this.aTextView.Size = new System.Drawing.Size(39, 20);
             this.aTextView.TabIndex = 2;
-            this.aTextView.Text = "9";
+            this.aTextView.Text = "1";
             // 
             // bTextView
             // 
@@ -102,7 +102,7 @@
             this.bTextView.Name = "bTextView";
             this.bTextView.Size = new System.Drawing.Size(39, 20);
             this.bTextView.TabIndex = 3;
-            this.bTextView.Text = "1";
+            this.bTextView.Text = "8";
             // 
             // dTextView
             // 
@@ -110,7 +110,7 @@
             this.dTextView.Name = "dTextView";
             this.dTextView.Size = new System.Drawing.Size(39, 20);
             this.dTextView.TabIndex = 4;
-            this.dTextView.Text = "2";
+            this.dTextView.Text = "0,3";
             // 
             // neuronsTextBox
             // 
@@ -336,22 +336,22 @@
             // 
             // chart1
             // 
-            chartArea1.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            this.chart1.Legends.Add(legend1);
+            chartArea3.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea3);
+            legend3.Name = "Legend1";
+            this.chart1.Legends.Add(legend3);
             this.chart1.Location = new System.Drawing.Point(-3, 353);
             this.chart1.Name = "chart1";
-            series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series1.Legend = "Legend1";
-            series1.Name = "Real";
-            series2.ChartArea = "ChartArea1";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series2.Legend = "Legend1";
-            series2.Name = "Desired";
-            this.chart1.Series.Add(series1);
-            this.chart1.Series.Add(series2);
+            series5.ChartArea = "ChartArea1";
+            series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series5.Legend = "Legend1";
+            series5.Name = "Real";
+            series6.ChartArea = "ChartArea1";
+            series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series6.Legend = "Legend1";
+            series6.Name = "Desired";
+            this.chart1.Series.Add(series5);
+            this.chart1.Series.Add(series6);
             this.chart1.Size = new System.Drawing.Size(1353, 306);
             this.chart1.TabIndex = 33;
             this.chart1.Text = "chart1";
@@ -367,24 +367,14 @@
             this.detailsChartCheckBox.Text = "Details chart";
             this.detailsChartCheckBox.UseVisualStyleBackColor = true;
             // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(174, 117);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(75, 23);
-            this.button5.TabIndex = 35;
-            this.button5.Text = "button5";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
-            // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(148, 192);
+            this.label7.Location = new System.Drawing.Point(174, 161);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(20, 13);
+            this.label7.Size = new System.Drawing.Size(68, 13);
             this.label7.TabIndex = 36;
-            this.label7.Text = "Ee";
+            this.label7.Text = "Desired Error";
             // 
             // textBox1
             // 
@@ -394,14 +384,24 @@
             this.textBox1.TabIndex = 37;
             this.textBox1.Text = "0,6";
             // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F);
+            this.label12.Location = new System.Drawing.Point(539, 663);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(313, 25);
+            this.label12.TabIndex = 38;
+            this.label12.Text = "Copyright by Mateusz Sawczuk";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1362, 662);
+            this.ClientSize = new System.Drawing.Size(1362, 697);
+            this.Controls.Add(this.label12);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.button5);
             this.Controls.Add(this.detailsChartCheckBox);
             this.Controls.Add(this.chart1);
             this.Controls.Add(this.cartesianChart3);
@@ -475,9 +475,9 @@
         private LiveCharts.WinForms.CartesianChart cartesianChart3;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
         private System.Windows.Forms.CheckBox detailsChartCheckBox;
-        private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label label12;
     }
 }
 
